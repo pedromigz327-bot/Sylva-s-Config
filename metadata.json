@@ -1,0 +1,6 @@
+{
+  "name": "BedwarsLab 1.8.9 — Treino de Mira, CPS, DPI & Otimizador IA",
+  "description": "Plataforma tática para Minecraft Bedwars 1.8.9 com treino de mira e strafe, teste de velocidade de reação, analisador de CPS com estabilidade, DPI Finder e painel com IA para otimizar sensibilidade, mira e cliques no PC ou telemóvel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
